@@ -1,0 +1,8 @@
+{
+  "name": "nodejs-practice",
+  "version": "1.0.0",
+  "dependencies": {
+    "formidable": "^1.2.1",
+    "upper-case": "latest"
+  }
+}
